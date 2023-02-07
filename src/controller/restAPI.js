@@ -1,5 +1,5 @@
 // Importando a data e o framework express
-const data = require('./dadosFinais.json')
+const data = require('../../data/dadosFinais.json')
 const express = require('express');
 
 // Criando o servidor e a port
